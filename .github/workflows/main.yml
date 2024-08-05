@@ -23,6 +23,6 @@ jobs:
           context: ./src
           file: ./src/Dockerfile
           push: true
-          tags:
+          tags: |
             gabrielsantos-cloud/kube-news:v1
             gabrielsantos-cloud/kube-news:latest
