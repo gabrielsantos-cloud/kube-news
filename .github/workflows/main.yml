@@ -25,4 +25,3 @@ jobs:
           push: true
           tags: |
             gabrielsantos-cloud/kube-news:v1
-            gabrielsantos-cloud/kube-news:latest
