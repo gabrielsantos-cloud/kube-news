@@ -24,4 +24,5 @@ jobs:
           file: ./src/Dockerfile
           push: true
           tags: |
-            gabrielsantos-cloud/kube-news:v1
+            johnbufalu/kube-news:v1
+            johnbufalu/kube-news:latest
